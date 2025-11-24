@@ -83,3 +83,63 @@ DOT plays a role as:
 ---
 
 # 📦 Repository Structure
+---
+
+# 🧭 Phase 1 Roadmap (3 months)
+
+### Month 1
+- Team formation (3 engineers)
+- Architecture finalization
+- Rights-based tokenization standard
+
+### Month 2
+- XCM Payment Router prototype  
+- Core smart contract modules  
+
+### Month 3
+- Governance Integration Module  
+- Developer SDK (alpha)  
+- Testnet deployment
+
+---
+
+# 💰 Funding Structure (Phase 1)
+
+Terra Protocol Phase 1 is supported via:
+
+### 🔹 Web3 Foundation  
+**$100,000 USD Grant** (Research + Standards)
+
+### 🔹 Parity Technologies  
+**$50,000 USD equivalent + engineering support** (XCM + integrations)
+
+### 🔹 Polkadot Treasury  
+**250,000 DOT request (in progress)**  
+(infrastructure + development)
+
+---
+
+# 📜 License
+
+MIT License — free and open for all developers.
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.  
+See `CONTRIBUTING.md` for guidelines.
+
+---
+
+# 📬 Contact
+
+- GitHub: https://github.com/Terra-Protocol  
+- Website: coming soon  
+- Documentation: coming soon  
+
+For collaboration inquiries, reach out via GitHub Issues.
+
+---
+
+# ⭐ If you support real-world adoption on Polkadot — star the repo!
