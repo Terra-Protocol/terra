@@ -1,0 +1,3 @@
+# Contributing
+
+Contribution rules placeholder.
