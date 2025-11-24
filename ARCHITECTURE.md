@@ -1,3 +1,0 @@
-# Architecture
-
-Technical structure placeholder.
