@@ -39,7 +39,7 @@ You can contribute in many different ways:
 Everyone is welcome to participate.
 
 ---
-
+/src/ → Core protocol modules /docs/ → Documentation & developer guides /specs/ → Architectural specifications examples/ → Code examples & demo economies WHITEPAPER.md → Whitepaper (Markdown) ARCHITECTURE.md → Protocol architecture ROADMAP.md → Development plan
 # 📁 2. Repository Structure
 /src/            → Core protocol modules
 /docs/           → Documentation & developer guides
