@@ -83,6 +83,17 @@ DOT plays a role as:
 ---
 
 # 📦 Repository Structure
+Terra-Protocol/
+│
+├── README.md
+├── WHITEPAPER.md
+├── ARCHITECTURE.md
+├── ROADMAP.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+│
+└── src/ (coming in Phase 1)
 ---
 
 # 🧭 Phase 1 Roadmap (3 months)
