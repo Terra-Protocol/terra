@@ -148,7 +148,7 @@ See `CONTRIBUTING.md` for guidelines.
 - GitHub: https://github.com/Terra-Protocol  
 - Website: coming soon  
 - Documentation: coming soon
-- whitepaper: [📄 Download the Terra Whitepaper (PDF)](https://github.com/Terra-Protocol/terra/raw/main/Terra_Whitepaper.pdf)
+- whitepaper: [Download Whitepaper (PDF)](Terra_Whitepaper2.0.pdf)
 
 For collaboration inquiries, reach out via GitHub Issues.
 
