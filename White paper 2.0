@@ -1,0 +1,87 @@
+Terra Protocol — Whitepaper v1.0
+
+1. Introduction
+Terra Protocol is a rights-based economic coordination system designed for real-world communities operating within the Polkadot ecosystem. The protocol enables programmable economic rights, cross-chain payments, governance coordination, and incentive routing. Using a hybrid architecture—smart contracts on Moonbeam and future Substrate pallets—Terra provides both rapid deployability and long-term scalability.
+The protocol avoids property tokenization and instead models rights and incentives as programmable abstractions, ensuring technical flexibility and regulatory alignment.
+
+2. Governance Framework
+Terra uses a tri-layer governance structure:
+1. Project Governance (GitHub)
+2. Protocol Governance (TerraDAO)
+3. Ecosystem Governance (Polkadot OpenGov)
+
+Project Governance (GitHub)
+During Phase 1, governance is maintainer-led using rough consensus.
+Responsibilities include: reviewing and merging pull requests, ensuring repository quality and documentation, managing releases, and conducting security reviews.
+
+TerraDAO Governance
+TerraDAO governs: economic configuration, rights metadata, incentives, treasury allocations, and local economy onboarding.
+
+Dual-Token Governance Model
+GOVT Token — Governance Power: inflationary, earned through participation, used for voting.
+TERRA Token — Economic Rights: fixed supply, represents participation and revenue rights.
+
+Governance Process: Proposal → Discussion → Voting → Execution
+
+Governance Roadmap:
+Phase 1: Maintainer-led
+Phase 2: TerraDAO activation
+Phase 3: Multi-community governance + XCM interactions
+
+3. Tokenomics
+Three-token architecture: TERRA, GOVT, WORK
+
+TERRA Token
+Purpose: economic rights and revenue share
+Supply: fixed
+Distribution: 55% Treasury, 20% Workers, 20% Team (4-year vesting), 5% Partners
+
+GOVT Token
+Purpose: governance voting power
+Supply: inflationary
+Role: decision-making and parameter updates
+
+WORK Token
+Purpose: worker compensation and internal economic operations
+Supply: elastic via bonding curve
+
+Revenue Model:
+40% TERRA holders
+40% WORK liquidity
+20% Treasury
+
+Rights-Based Tokenization: rights represent access, usage, contribution—not property ownership.
+
+4. Economic Model & Incentive Flows
+TERRA Rights Layer: long-term participation and revenue rights.
+GOVT Governance Layer: prevents plutocratic capture through inflation.
+WORK Operational Layer: worker payments, task markets, local budgets.
+
+Incentive Flows:
+Worker compensation → WORK token issuance
+Revenue distribution → 40/40/20 router
+Governance incentives → GOVT issuance
+Treasury feedback loop → supports local economies
+
+5. Technical Architecture
+Hybrid deployment: Moonbeam smart contracts + Substrate pallets + XCM Router
+
+Rights Engine: manages rights, metadata, access rules, binding logic.
+Revenue Router: deterministic 40/40/20 split.
+Bonding Curve Module: WORK mint/burn pricing.
+XCM Payment Router: multi-chain payments and fee abstraction.
+Governance Integration Layer: parameter control.
+Treasury Module: funds local economies and developers.
+Terra SDK: Rust + TypeScript for developers.
+
+6. Risk & Security Analysis
+Protocol Risks: state divergence, unsafe upgrades.
+Smart Contract Risks: reentrancy, overflows.
+XCM Risks: replay, message failure, routing issues.
+Governance Risks: capture, low turnout.
+Economic Risks: bonding curve manipulation, router misallocation.
+RWA Risks: operational failures, rights misinterpretation.
+Systemic Risks: parachain downtime, economic instability.
+
+7. Conclusion
+Terra Protocol provides a scalable, rights-based coordination layer for real-world communities on Polkadot. Through hybrid architecture, transparent governance, programmable rights, and cross-chain interoperability, Terra offers a technically robust and economically sustainable system aligned with Polkadot's decentralized coordination vision.
