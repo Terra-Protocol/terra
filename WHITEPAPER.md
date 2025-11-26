@@ -1,4 +1,3 @@
-# Terra Protocol Whitepaper
 # 🌍 Terra Protocol – Whitepaper  
 ### Real-World Economic Infrastructure Layer for Polkadot
 
