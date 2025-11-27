@@ -256,6 +256,66 @@ Used for:
 | **Partnerships** | 5% | Strategic alliances |
 
 All team tokens are transparently vested on-chain.
+
+## Founder Transparency & Tokenomics Rationale
+
+A significant portion of the TERRA supply is allocated to the Terra Treasury rather than being widely distributed to individuals. This design is intentional and based on several structural considerations.
+
+### 1. Prioritizing Collective Value Over Individual Accumulation
+By holding most TERRA in the Treasury, the protocol ensures that the majority of all incoming value (through the revenue router) automatically strengthens a shared pool rather than increasing individual passive income.  
+This prevents competitive accumulation behavior and keeps incentives aligned with long-term community goals.
+
+It also means:
+- the community always has meaningful shared resources,
+- important initiatives can be funded collectively,
+- the protocol does not depend on wealthy individuals to function,
+- economic power remains decentralized and transparent.
+
+### 2. Ensuring Community Access to Meaningful Resources  
+Although individual members may hold only a smaller share of TERRA, they gain access to a **much larger treasury-backed capital pool**.  
+This enables:
+- regenerative projects,  
+- reforestation efforts,  
+- water planning and water distribution systems,  
+- local infrastructure and shared tools,  
+- early-stage incubation of community-led initiatives.
+
+The focus is not on ownership but on **capability**: communities should be able to act, build, regenerate, and govern — together.
+
+### 3. Founder Allocation: Stability, Responsibility, and Long-Term Commitment  
+A portion of TERRA is allocated to me as the founder and to the initial team.  
+This allocation has two roles:
+
+**(a) Personal Financial Stability**  
+Like any founder, I need the ability to cover private living costs, family planning, and a stable lifestyle. This is essential for committing long-term and working full-time on Terra without relying on unrelated jobs or external pressure.
+
+**(b) Capacity to Act Independently When Needed**  
+There may be situations where the community chooses not to fund an initiative that I believe is important or beneficial in the long run.  
+Having an independent reserve allows me to:
+- initiate early projects at my own risk,  
+- demonstrate value before community consensus is reached,  
+- fund regenerative or experimental ideas that may not yet be widely understood,  
+- ensure continued progress even during governance hesitation.
+
+This allocation is not intended for excessive personal enrichment, but as a **responsible buffer** that enables long-term dedication and independent stewardship.
+
+### 4. Preventing Governance Deadlocks  
+Real communities sometimes move slowly or become indecisive.  
+The founder allocation ensures that essential development is not halted due to temporary disagreements. It allows me to support initiatives that serve the ecosystem even if they require early conviction or bear initial risk.
+
+### 5. Summary  
+The tokenomics model is designed to balance:
+
+- **Collective empowerment** through a strong Treasury  
+- **Responsible founder stability**  
+- **Protection against speculation or greed-driven behavior**  
+- **Long-term regenerative impact** (forests, water cycles, ecological restoration)  
+- **Community access to shared, meaningful capital**  
+- **Founder capacity to act when the ecosystem is not yet ready**
+
+The intention is simple:  
+**To create a fair and sustainable system where both the community and the founder have what they need to build, grow, and regenerate — together.**
+
 ## Founder Allocation – Transparency Statement
 
 A portion of the TERRA supply is allocated to the founder and the initial team.  
