@@ -256,7 +256,65 @@ Used for:
 | **Partnerships** | 5% | Strategic alliances |
 
 All team tokens are transparently vested on-chain.
+## Rationale Behind the Tokenomics Allocation
 
+The decision to allocate a large portion of TERRA to the Terra Treasury is based on several structural and long-term considerations.
+
+### 1. Ensuring Collective Stability Over Individual Incentives
+By concentrating a significant share of TERRA within the Treasury instead of distributing it widely to individuals, the system avoids speculative behavior or personal accumulation incentives.  
+This approach ensures that:
+
+- most economic inflows naturally strengthen the Treasury,
+- communities always have access to shared capital,
+- long-term development is prioritized over personal gain.
+
+This design encourages collaboration and common responsibility, rather than competition for individual revenue shares.
+
+### 2. Strengthening Community Access to Resources
+Even though individual community members hold only a small proportion of TERRA, they collectively maintain access to a **large, well-funded Treasury**.  
+This enables:
+
+- project funding,
+- regenerative initiatives,
+- local infrastructure,
+- long-term sustainability,
+- collective decision-making with meaningful resources.
+
+In essence, value remains available *to everyone*, without being directly owned *by individuals*.
+
+### 3. Founder and Initial Team Allocation (20%)
+The founder allocation is not intended for personal enrichment, but as a strategic reserve to ensure that essential initiatives can continue even if the community does not immediately recognize their long-term value.
+
+This allocation enables:
+
+- independent continuation of critical projects,
+- financial capability to initiate regenerative ventures,
+- bridging periods where community consensus may not yet support certain innovations.
+
+The intention is to maintain the ability to push forward developments that may ultimately benefit the entire ecosystem — even when they require early conviction or risk-taking.
+
+### 4. Safeguard Against Governance Deadlock
+Real communities sometimes move slowly or can become indecisive.  
+Having an independent reserve allows the founder to:
+
+- demonstrate proof-of-concept,
+- de-risk future community decisions,
+- support experiments without Treasury funds,
+- preserve momentum in times of uncertainty.
+
+This ensures that progress is not halted due to temporary disagreements or hesitation.
+
+---
+
+## Summary
+
+The tokenomics design serves three core purposes:
+
+1. **Preventing greed-driven accumulation behaviors**  
+2. **Ensuring a powerful community Treasury for long-term regenerative projects**  
+3. **Maintaining founder capacity to act independently when necessary**  
+
+This model supports both **collective empowerment** and **responsible leadership**, creating a system that is sustainable, collaborative, and oriented toward long-term environmental and social impact.
 ---
 
 # 9. Governance
