@@ -203,6 +203,8 @@ The CDC enables:
 
 It is a **unique governance innovation** designed to make Terra secure,
 fair, and resilient from its earliest stages.
+
+
 Initial Member Admission Protocol (IMAP)
 
 IMAP defines how the first generation of governance participants enters Terra.
