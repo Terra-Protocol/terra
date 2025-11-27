@@ -315,6 +315,69 @@ The CDC seeks to balance:
 
 It is a temporary but critical mechanism that strengthens legitimacy and
 creates a safe path from Founder-led stability to community-guided governance.
+Terra Governance 2.0 – Initial Member Admission Protocol (IMAP)
+
+Das Initial Member Admission Protocol (IMAP) definiert, wie die erste Generation von Terra-Mitgliedern in das Governance-System eintritt. Ziel ist es, eine Werte-gemeinschaft aufzubauen, die Terra in seiner empfindlichsten frühen Phase schützt und sicherstellt, dass die ersten Entscheidungsträger ethisch und visionär ausgerichtet sind.
+
+IMAP wird verwendet, um sicherzustellen, dass alle frühen Mitglieder folgende Werte teilen:
+– menschliche Würde
+– Zusammenarbeit
+– Nachhaltigkeit
+– Verantwortungsbewusstsein
+– Ablehnung von extremistischen Ideologien
+– langfristige Vision
+
+Dies verhindert Instabilität oder ideologische Übernahme in der Startphase.
+
+Founding Member Letters
+Jeder Bewerber muss einen öffentlichen “Founding Member Letter” schreiben.
+Dieser enthält:
+– Name und Hintergrund
+– persönliche Werte
+– Motivation
+– Vision für Terra
+– freiwillig: Foto oder Identitätsnachweis
+Alle Briefe werden im GitHub-Repository im Ordner „/founders“ gespeichert.
+
+Unanimous Acceptance Requirement
+Ein neues Mitglied wird nur aufgenommen, wenn 100% des bestehenden Councils zustimmen.
+Ein einziges Nein bedeutet Ablehnung.
+Das schützt die frühe Governance vor Konflikt, Spaltung und Missbrauch.
+
+Rechte für neue Founding Members
+Nach erfolgreicher Aufnahme erhält ein Mitglied:
+– Teilnahme am Governance-System
+– Möglichkeit, GOVT zu verdienen
+– Möglichkeit, Terra aus dem Worker Terra Pool zu verdienen
+– Berechtigung, im CDC (Consensus Delegation Council) mitzuwirken
+
+Es gibt KEINE automatische Terra-Zuteilung. Terra wird ausschließlich durch Leistung und Mitarbeit verdient.
+
+Beziehung zwischen IMAP und CDC
+Die ersten Mitglieder bilden automatisch das initiale CDC.
+Der Founder kann dem CDC einen Teil seiner Terra-Stimmkraft delegieren.
+Diese delegierte Stimmkraft wird nur aktiv, wenn alle Mitglieder einstimmig zustimmen.
+Sobald die Community genug Terra verdient hat, deaktiviert sich diese Delegation automatisch.
+
+Übergang zu offenerem Onboarding
+IMAP ist ein Schutzsystem für die Anfangsphase.
+Später wird Terra ein breiteres Onboarding-System einführen, zum Beispiel:
+– Leistungsbasierte Aufnahme
+– Reputation
+– Community-Review
+– Wertefragebögen
+– On-Chain-Aufnahmemodule
+
+Philosophie
+IMAP soll nicht Macht abschotten, sondern Werte schützen.
+Es stellt sicher:
+– stabiler Start
+– Schutz vor politischer oder ideologischer Manipulation
+– hochwertige Mitgliederbasis
+– Fairness und Transparenz
+– langfristige demokratische Entwicklung
+
+IMAP sorgt dafür, dass Terra auf einem soliden, ethischen Fundament aufbaut, bevor das System für die gesamte Welt geöffnet wird.
 
 ## 5.4 Revenue Router
 
