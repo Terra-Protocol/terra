@@ -192,6 +192,76 @@ To avoid lost supply and ensure continuity:
 - 5% — Partnerships & Ecosystem Expansion  
 
 The Worker Terra Pool is non-inflationary and released slowly to contributors.
+## 7.6 Consensus Delegation Council (CDC)
+
+The Consensus Delegation Council (CDC) is a transitional governance module
+designed to ensure shared decision-making during the early stage of the Terra
+Protocol, before the community has earned a significant portion of Terra.
+
+The CDC introduces a system of **group-based delegated voting power**
+that activates only under **full consensus** among Council Members.
+This enables strong community participation without compromising the
+foundational stability of the protocol.
+
+---
+
+### 7.6.1 Purpose
+
+In the early phase of Terra, the Founder holds a 20% Terra allocation.
+As the Worker Terra Pool has not yet been distributed, the Founder would
+otherwise be the sole holder of strategic and sovereign-level voting power.
+
+The CDC solves this by:
+
+- enabling shared governance from day one  
+- requiring unanimity among Council Members  
+- preventing concentration of power in any single individual  
+- transitioning authority naturally as the community earns Terra  
+- safeguarding constitutional values during the early growth phase  
+
+---
+
+### 7.6.2 Delegated Terra Voting Power
+
+The Founder may delegate a **temporary voting fraction** of Terra  
+(e.g., 5–10%) to the CDC.
+
+Important characteristics:
+
+- Delegation does **not** transfer ownership  
+- Delegation grants only **voting power**, not Terra possession  
+- Delegation is **automatically reversible** under specific conditions  
+- Delegation cannot be transferred or inherited  
+
+This ensures community participation without introducing instability.
+
+---
+
+### 7.6.3 Unanimous Consensus Requirement
+
+The CDC's delegated Terra becomes active only when **all Council Members** cast
+an affirmative vote.  
+If any member votes **NO** or abstains:
+
+- the delegation becomes inactive  
+- full Terra voting power reverts to the Founder for this decision  
+- no CDC influence is counted in the Terra quorum  
+
+This mechanism guarantees:
+
+- no single Council Member can abuse power  
+- no factional capture is possible  
+- no accidental activation occurs  
+- community inclusion happens only when unified  
+
+---
+
+### 7.6.4 Automatic Deactivation Trigger
+
+The Consensus Delegation Council is **not a permanent institution**.
+
+CDC delegation is automatically disabled when the community collectively earns
+a sufficient amount of Terra, defined by:
 
 ---
 
@@ -206,6 +276,45 @@ Terra Governance 2.0 aims to ensure:
 
 This governance model allows Terra to evolve into a self-sustaining  
 economic and social ecosystem built on shared responsibility and protected principles.
+Community Terra ≥ CDC_Deactivation_Threshold
+A recommended threshold is:
+
+- **20% community Terra**, matching the Founder allocation  
+- or another threshold set through Governance  
+
+Once triggered:
+
+- delegated Terra returns fully to the Founder  
+- CDC loses its temporary consensus power  
+- Terra Governance transitions into a mature, self-sustaining state  
+
+---
+
+### 7.6.5 Recovery and Fail-Safe
+
+If CDC Members are inactive, corrupted, or unavailable:
+
+- delegation becomes automatically inactive  
+- Founder Terra is restored for sovereign decisions  
+- the community retains full influence via GOVT in daily governance  
+
+This ensures no governance deadlock is possible.
+
+---
+
+### 7.6.6 Governance Philosophy
+
+The CDC seeks to balance:
+
+- early-stage stability  
+- community trust  
+- protection of Terra’s core values  
+- transition toward decentralization  
+- prevention of political or ideological capture  
+- minimization of Founder dominance  
+
+It is a temporary but critical mechanism that strengthens legitimacy and
+creates a safe path from Founder-led stability to community-guided governance.
 
 ## 5.4 Revenue Router
 
