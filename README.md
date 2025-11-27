@@ -114,19 +114,7 @@ Terra-Protocol/
 
 ---
 
-# 💰 Funding Structure (Phase 1)
-
-Terra Protocol Phase 1 is supported via:
-
-### 🔹 Web3 Foundation  
-**$100,000 USD Grant** (Research + Standards)
-
-### 🔹 Parity Technologies  
-**$50,000 USD equivalent + engineering support** (XCM + integrations)
-
-### 🔹 Polkadot Treasury  
-**250,000 DOT request (in progress)**  
-(infrastructure + development)
+# 💰 Funding Structure 
 
 ---
 
@@ -147,7 +135,18 @@ See `CONTRIBUTING.md` for guidelines.
 
 - GitHub: https://github.com/Terra-Protocol  
 - Website: coming soon  
-- Documentation: coming soon
+- Documentation: ## 📄 Whitepapers
+
+Terra provides two whitepapers:
+
+- **Full Whitepaper (Vision & Long-Term Design)**  
+  [`WHITEPAPER.md`](./WHITEPAPER.md)
+
+- **Grant Whitepaper (Technical, W3F-Focused)**  
+  [`WHITEPAPER_GRANT.md`](./WHITEPAPER_GRANT.md)
+
+The full whitepaper describes the long-term vision.  
+The grant whitepaper focuses strictly on architecture, milestones, and Substrate development.
 - whitepaper: WHITEPAPER.md
 
 For collaboration inquiries, reach out via GitHub Issues.
