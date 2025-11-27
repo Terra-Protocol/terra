@@ -205,7 +205,7 @@ It is a **unique governance innovation** designed to make Terra secure,
 fair, and resilient from its earliest stages.
 
 
-Initial Member Admission Protocol (IMAP)
+-Initial Member Admission Protocol (IMAP)
 
 IMAP defines how the first generation of governance participants enters Terra.
 It ensures that early governance is safe, aligned, and built on shared values.
