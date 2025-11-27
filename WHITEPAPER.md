@@ -161,8 +161,8 @@ Compatible with:
 Receives income and distributes it automatically:
 
 ### Default Allocation:
-- **40% → TERRA holders**  
-- **40% → WORK liquidity pools**  
+- **50% → TERRA holders**  
+- **30% → WORK liquidity pools**  
 - **20% → Polkadot Treasury**  
 ## Why the Revenue Router Strengthens DOT
 
