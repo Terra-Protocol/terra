@@ -203,3 +203,53 @@ The CDC enables:
 
 It is a **unique governance innovation** designed to make Terra secure,
 fair, and resilient from its earliest stages.
+Initial Member Admission Protocol (IMAP)
+
+IMAP defines how the first generation of governance participants enters Terra.
+It ensures that early governance is safe, aligned, and built on shared values.
+
+Purpose
+	•	Protect early governance from ideological or political capture
+	•	Admit only value-aligned individuals
+	•	Build trust inside the initial core team
+	•	Prepare the system for long-term decentralization
+	•	Guarantee a stable base for the Consensus Delegation Council (CDC)
+
+Founding Member Letters
+
+Each candidate must publish a “Founding Member Letter” containing:
+	•	their background
+	•	their values
+	•	their vision for Terra
+	•	motivation for joining
+	•	commitment to community ethics
+
+All letters are stored in the public repo under /founders.
+
+Unanimous Acceptance
+
+New members are accepted only if 100% of existing Founding Members agree.
+A single objection blocks admission.
+
+This prevents early ideological conflicts and builds a unified governance core.
+
+Rights Granted
+
+Upon acceptance, a Founding Member gains:
+	•	participation in governance
+	•	eligibility to earn GOVT
+	•	eligibility to earn Terra from the Worker Pool
+	•	CDC voting privileges (until CDC deactivation phase)
+
+Relationship with CDC
+
+Founding Members form the initial CDC group.
+CDC receives delegated Terra voting power from the Founder that activates only with unanimous consensus.
+Delegation ends automatically when the community earns sufficient Terra.
+
+Transition to Open Admission
+
+IMAP is temporary.
+Later, Terra introduces scalable onboarding mechanisms (e.g., reputation-, contribution-, or values-based entry).
+
+IMAP ensures the early governance foundation is secure, ethical, and aligned before the system becomes fully open.
