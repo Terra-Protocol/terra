@@ -110,3 +110,34 @@ Anyone can join governance by:
 
 This system is designed to grow into a self-sustaining digital nation with  
 transparent rules and protected core values.
+At that point:
+
+- Delegation ends  
+- CDC no longer influences Terra votes  
+- Governance transitions to a fully capable community  
+- Founder retains personal 20% sovereign allocation  
+
+---
+
+### 🔹 Fail-Safe
+
+If the CDC becomes inactive or blocked:
+
+- Delegation automatically turns off  
+- Founder Terra regains full voting power for sovereign decisions  
+- Daily governance remains unaffected (GOVT continues to operate normally)  
+
+---
+
+### 🔹 Summary
+
+The CDC enables:
+
+- early community influence  
+- extremely safe decision-making  
+- stable transition to decentralization  
+- protection from ideological capture  
+- reduced Founder dominance without losing security  
+
+It is a **unique governance innovation** designed to make Terra secure,
+fair, and resilient from its earliest stages.
