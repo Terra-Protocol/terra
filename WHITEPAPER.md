@@ -256,6 +256,31 @@ Used for:
 | **Partnerships** | 5% | Strategic alliances |
 
 All team tokens are transparently vested on-chain.
+## Founder Allocation – Transparency Statement
+
+A portion of the TERRA supply is allocated to the founder and the initial team.  
+This allocation serves two purposes:
+
+1. **Personal financial stability** – as with any founder, I need a sustainable way to cover my private living costs, family planning, and a normal life outside the project.  
+2. **Long-term capacity to act** – I want to ensure that I have the ability to continue supporting important initiatives, even if the community does not immediately agree or if the Treasury cannot or should not be used for certain early-stage efforts.
+
+The allocation is therefore not designed to maximize personal profit, but to ensure:
+- independence during the early years of development  
+- alignment with the long-term success of Terra  
+- the ability to support ecosystem growth without relying solely on Treasury voting  
+- financial stability, so that I can commit fully to the project  
+
+This structure acknowledges a basic reality:  
+**Founders also have private responsibilities and need financial resources, but these resources should be earned in a transparent and aligned way.**
+
+By maintaining a responsible personal allocation while keeping the majority of TERRA in the Treasury, the system avoids excessive individual accumulation and ensures that most value flows back into community-driven development.
+
+The intention is simple and honest:
+- I want to live a normal, stable life like anyone else.  
+- I want the protocol to grow without creating unhealthy incentives.  
+- And I want to retain enough capacity to act when needed, in ways that may ultimately benefit the entire ecosystem.
+
+This allocation reflects a balance between **personal responsibility**, **project commitment**, and **community-focused design**.
 ## Rationale Behind the Tokenomics Allocation
 
 The decision to allocate a large portion of TERRA to the Terra Treasury is based on several structural and long-term considerations.
