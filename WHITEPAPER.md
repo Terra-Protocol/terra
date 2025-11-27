@@ -161,9 +161,18 @@ Compatible with:
 Receives income and distributes it automatically:
 
 ### Default Allocation:
-- **50% → TERRA holders**  
+- **60-55% → TERRA holders**  
 - **30% → WORK liquidity pools**  
-- **20% → Polkadot Treasury**  
+- **10-15% → Polkadot Treasury**
+
+- ### Adaptive Revenue Router Model (Future Growth Alignment)
+
+The initial Revenue Router rate is set between 10–15% to provide a sustainable foundation during the early stages of TERRA’s development. As the system matures and on-chain revenue becomes measurable, the protocol allows for an adaptive increase of this rate.
+
+If, at a later stage, the Polkadot Treasury decides to support TERRA with additional funding to accelerate growth, expand infrastructure, or scale ecosystem integrations, the Revenue Router allocation may be increased—up to 20%—to reflect the deeper strategic alignment and long-term value flow back into the Treasury.
+
+This adaptive model ensures that Treasury support and Treasury returns remain proportional over time, without defining specific funding amounts in advance. It creates a flexible, future-proof mechanism where stronger ecosystem investment is naturally matched by stronger on-chain revenue share.
+
 ## Why the Revenue Router Strengthens DOT
 
 ### Why DOT Needs a Sustainable Revenue Model
