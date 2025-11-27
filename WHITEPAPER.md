@@ -137,24 +137,75 @@ Features:
 
 ---
 
-## 5.3 Governance Integration Layer
+## 7. Governance Framework – Terra Governance 2.0
 
-Provides DAO-controlled:
+Terra Governance 2.0 implements a multi-layer governance architecture that ensures  
+**stability**, **democratic participation**, and **long-term value protection** across the ecosystem.
 
-- budgets  
-- worker compensation  
-- revenue-share settings  
-- project onboarding  
-- treasury return rates  
-- economic parameters  
+### 7.1 Governance Tokens
 
-Compatible with:
+**Terra (Sovereign Rights Token)**  
+A fixed-supply, non-inflationary token representing constitutional and strategic rights.  
+Founder receives a permanent 20% allocation to safeguard the foundational values of the protocol.
 
-- TerraDAO  
-- Polkadot OpenGov  
-- parachain governance systems  
+**GOVT (Governance Participation Token)**  
+An inflationary token earned through contribution and activity within the ecosystem.  
+Used exclusively for daily, operational governance processes.
+
+**CREDIT (Revenue Rights Token)**  
+An elastic, non-transferable unit representing economic participation and revenue share.  
+CREDIT growth scales with ecosystem expansion and does not grant governance power.
 
 ---
+
+### 7.2 Governance Layers
+
+**Daily Governance (GOVT-only)**  
+Controls operational parameters and day-to-day decision making.  
+Designed for high participation and rapid iteration.
+
+**Strategic Governance (Terra + GOVT weighted voting)**  
+Combines sovereign rights with earned community rights.  
+Used for economic adjustments, reward systems, and protocol-level configuration.
+
+**Sovereign Governance (Terra-only)**  
+Applies to constitutional rules, treasury governance, identity, and long-term protocol vision.  
+Founder holds 20% Terra, while community Terra holders collectively control more,  
+ensuring both stability and decentralization.
+
+---
+
+### 7.3 Inheritance & Delegation
+
+To avoid lost supply and ensure continuity:
+- Terra holders may delegate their voting rights without transferring ownership.
+- A built-in Smart Inheritance system reassigns Terra after inactivity or predefined trigger conditions.
+- A Governance Council may verify extraordinary inheritance cases.
+
+---
+
+### 7.4 Terra Distribution Model
+
+- 20% — Founder Allocation  
+- 20% — Worker Terra Pool (vesting over time via GOVT reputation)  
+- 55% — Treasury (ecosystem and public goods)  
+- 5% — Partnerships & Ecosystem Expansion  
+
+The Worker Terra Pool is non-inflationary and released slowly to contributors.
+
+---
+
+### 7.5 Governance Philosophy
+
+Terra Governance 2.0 aims to ensure:
+- stable protection of core values  
+- democratic community participation  
+- scalable economic coordination through CREDIT  
+- resistance to ideological or political hijacking  
+- long-term sustainability and human-centric development  
+
+This governance model allows Terra to evolve into a self-sustaining  
+economic and social ecosystem built on shared responsibility and protected principles.
 
 ## 5.4 Revenue Router
 
