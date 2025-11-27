@@ -141,3 +141,91 @@ The CDC enables:
 
 It is a **unique governance innovation** designed to make Terra secure,
 fair, and resilient from its earliest stages.
+---
+
+## 🧩 Consensus Delegation Council (CDC)
+
+The Consensus Delegation Council introduces a transitional mechanism that allows
+the community to participate in **strategic and sovereign governance** before
+they have earned significant amounts of Terra.
+
+The CDC receives **temporary delegated voting power** from the Founder, which
+becomes active only under **unanimous consensus**.
+
+---
+
+### 🔹 Purpose
+
+- Share strategic decision-making from the early phase  
+- Provide community legitimacy before Terra is widely distributed  
+- Maintain stability and protect core values  
+- Prevent any single individual from gaining excessive influence  
+- Enable smooth transition to long-term decentralization  
+
+---
+
+### 🔹 Delegation Model
+
+The Founder may delegate a specific portion of Terra voting power
+(e.g., 5–10%) to the CDC.
+
+Characteristics:
+
+- Delegation grants **voting rights only**  
+- Ownership of Terra **does not** change  
+- Delegated Terra **cannot** be transferred, inherited, or sold  
+- Delegation is **automatically reversible**  
+
+---
+
+### 🔹 Unanimous Consensus Requirement
+
+The CDC's delegated Terra counts **only if all Members vote YES**.
+
+If even one Member votes NO or abstains:
+
+- Delegated Terra becomes inactive  
+- Full voting power reverts to the Founder for that decision  
+- CDC influence is excluded from quorum calculations  
+
+This ensures maximum safety and prevents Council capture.
+
+---
+
+### 🔹 Automatic Deactivation
+
+The CDC is temporary.
+
+Delegation auto-disables when the community collectively earns a predefined
+amount of Terra, e.g.:Community Terra ≥ 20%
+At that point:
+
+- Delegation ends  
+- CDC no longer influences Terra votes  
+- Governance transitions to a fully capable community  
+- Founder retains personal 20% sovereign allocation  
+
+---
+
+### 🔹 Fail-Safe
+
+If the CDC becomes inactive or blocked:
+
+- Delegation automatically turns off  
+- Founder Terra regains full voting power for sovereign decisions  
+- Daily governance remains unaffected (GOVT continues to operate normally)  
+
+---
+
+### 🔹 Summary
+
+The CDC enables:
+
+- early community influence  
+- extremely safe decision-making  
+- stable transition to decentralization  
+- protection from ideological capture  
+- reduced Founder dominance without losing security  
+
+It is a **unique governance innovation** designed to make Terra secure,
+fair, and resilient from its earliest stages.
