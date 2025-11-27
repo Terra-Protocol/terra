@@ -535,12 +535,18 @@ Used for:
 
 ### TERRA Distribution
 
-| Category | Amount | Purpose |
-|----------|---------|----------|
-| **TerraDAO Treasury** | 55% | Ecosystem, liquidity, grants |
-| **Worker Vesting** | 20% | Contributors & workers |
-| **Team & Founders (4-year vesting)** | 20% | Long-term alignment |
-| **Partnerships** | 5% | Strategic alliances |
+## TERRA Distribution (Rights Allocation, Not Immediate Distribution)
+
+| Category                           | Allocation | Meaning                                                                 |
+|-----------------------------------|------------|-------------------------------------------------------------------------|
+| **TerraDAO Treasury**             | 55%        | Long-term protocol reserve. Controlled only through governance. No immediate distribution. |
+| **Worker & Contributor Reserve**  | 20%        | A long-term allocation pool. TERRA is only granted slowly, via governance-approved vesting for significant contribution. |
+| **Team & Founders**               | 20%        | 4-year vesting. Rights unlock gradually to ensure long-term alignment and stability. No immediate liquidity. |
+| **Partnership Reserve**           | 5%         | Held in reserve for future strategic collaborations. Only unlockable by governance. |
+
+⚠️ **Important:**  
+These percentages represent *maximum supply designation*, **not immediate token releases**.  
+All distributions require TerraDAO approval and follow strict vesting schedules.
 
 All team tokens are transparently vested on-chain.
 
