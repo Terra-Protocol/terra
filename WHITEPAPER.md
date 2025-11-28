@@ -541,6 +541,82 @@ TERRA is the token that says:
 > "You are economically aligned with Terra and its long-term success."
 All team tokens are transparently vested on-chain.
 
+🔹 CREDIT
+### 8.2 CREDIT – Revenue Claim Token
+
+CREDIT is a **payout / revenue-claim token** that is derived from protocol income.
+
+When the protocol generates revenue (in DOT, stablecoins, WORK, etc.), the **Revenue Router**:
+
+1. collects the income  
+2. applies the allocation logic (e.g. Treasury, liquidity, participants)  
+3. mints CREDIT tokens to TERRA holders (or a distribution contract representing them)
+
+Holders of CREDIT can:
+
+- redeem CREDIT for WORK, DOT, or stablecoins (depending on available liquidity)  
+- optionally hold CREDIT as a claim for future redemptions
+
+This decoupling means:
+
+- TERRA = long-term participation & rights  
+- CREDIT = concrete, redeemable revenue claim
+
+Developers can treat CREDIT like a "claim ticket" on a revenue pool.
+
+🔹 WORK
+### 8.3 WORK – Local Economy & Wage Token
+
+WORK is the **transactional token** inside Terra-powered economies.
+
+- used for wages, local services, housing, food, resources, and internal markets  
+- may be minted and priced via a **bonding curve**, backed by DOT / stablecoins / Treasury liquidity  
+- is designed for **daily use**, not for governance or direct revenue rights  
+
+Workers:
+
+- perform work → receive WORK  
+- spend WORK inside the ecosystem  
+- optionally swap WORK into other assets via liquidity pools  
+
+WORK is the "money of the village", while TERRA and CREDIT represent deeper rights and revenue logic.
+
+🔹 GOVT
+### 8.4 GOVT – Governance Token
+
+GOVT is a **pure governance token**:
+
+- inflationary, distributed to contributors, long-term participants, and active governors  
+- gives voting power in TerraDAO, but **no direct claim to revenue**  
+- can be used to propose and vote on:
+  - parameter changes  
+  - Treasury allocations  
+  - bonding curve settings  
+  - integration of new communities / projects  
+
+This separates **governance power** (GOVT) from **economic participation** (TERRA + CREDIT) and **day-to-day spending** (WORK).
+
+🔹 Wie der Revenue Router alles verbindet
+### 8.5 Revenue Flow (TERRA → CREDIT → WORK / DOT)
+
+1. Real-world activity generates revenue (e.g. in WORK, DOT, or stablecoins).  
+2. The **Revenue Router** collects this revenue.  
+3. The router applies allocation rules, e.g.:
+
+   - X% to Treasury  
+   - Y% to liquidity (WORK / DOT pools)  
+   - Z% to TERRA participants
+
+4. For the TERRA share, the router **mints CREDIT tokens** and distributes them to TERRA holders (or a representative contract).  
+5. TERRA holders can redeem CREDIT for WORK, DOT, or stablecoins from a dedicated pool.
+
+This design keeps:
+
+- protocol income & payouts transparent  
+- TERRA rights-based and long-term  
+- WORK focused on the local economy  
+- GOVT focused on governance
+- 
 ## Founder Transparency & Tokenomics Rationale
 
 A significant portion of the TERRA supply is allocated to the Terra Treasury rather than being widely distributed to individuals. This design is intentional and based on several structural considerations.
