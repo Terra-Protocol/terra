@@ -501,39 +501,20 @@ DOT plays a foundational role as:
 
 ---
 
-# 7. Economic Model
+# ## 8. Token Model
 
-Terra uses a **3-token-model**.
+Terra Protocol uses a four-token model to clearly separate **rights**, **revenue**, **local economic activity**, and **governance**.
 
-### Token 1: **TERRA** (rights token – fixed supply)
-Represents economic participation & revenue rights.
+- **TERRA** – Rights & participation token (fixed supply)  
+- **CREDIT** – Revenue claim token (minted/burned as payouts)  
+- **WORK** – Local economy & wage token (bonding-curve based)  
+- **GOVT** – Governance token (inflationary, earnable)
 
-### Token 2: **GOVT** (governance – inflationary)
-Earnable through:
+This separation keeps the protocol:
 
-- contribution  
-- labor  
-- governance participation  
-- community service  
-
-### Token 3: **WORK** (local economy – bonding curve)
-Used for:
-
-- wages  
-- resource payments  
-- internal trade  
-- services  
-- micro-economies  
-
----
-
-# 8. Tokenomics
-
-## Fixed: TERRA  
-## Inflationary: GOVT  
-## Dynamic: WORK (bonding curve)
-
-### TERRA Distribution
+- easier to reason about for developers  
+- more flexible for future economic design  
+- safer from a regulatory perspective (no direct property tokenization)  
 
 ## TERRA Distribution (Rights Allocation, Not Immediate Distribution)
 
