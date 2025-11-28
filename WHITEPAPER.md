@@ -524,7 +524,7 @@ This separation keeps the protocol:
 |-----------------------------------|------------|-------------------------------------------------------------------------|
 | **TerraDAO Treasury**             | 55%        | Long-term protocol reserve. Controlled only through governance. No immediate distribution. |
 | **Worker & Contributor Reserve**  | 20%        | A long-term allocation pool. TERRA is only granted slowly, via governance-approved vesting for significant contribution. |
-| **Team & Founders**               | 20%        | 4-year vesting. Rights unlock gradually to ensure long-term alignment and stability. No immediate liquidity. |
+| **Founder**               | 20%        | 4-year vesting. Rights unlock gradually to ensure long-term alignment and stability. No immediate liquidity. |
 | **Partnership Reserve**           | 5%         | Held in reserve for future strategic collaborations. Only unlockable by governance. |
 
 ⚠️ **Important:**  
