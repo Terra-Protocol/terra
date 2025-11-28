@@ -528,7 +528,17 @@ This separation keeps the protocol:
 ⚠️ **Important:**  
 These percentages represent *maximum supply designation*, **not immediate token releases**.  
 All distributions require TerraDAO approval and follow strict vesting schedules.
+### 8.1 TERRA – Rights & Participation
 
+TERRA represents **long-term economic participation** in the Terra ecosystem.
+
+- fixed total supply (decided by governance)  
+- distributed between Treasury, workers (vesting), team (vesting), and partners  
+- does **not** directly represent land ownership or real-estate rights  
+- does **not** receive direct cash-payouts, but is the basis for revenue claims via CREDIT
+
+TERRA is the token that says:  
+> "You are economically aligned with Terra and its long-term success."
 All team tokens are transparently vested on-chain.
 
 ## Founder Transparency & Tokenomics Rationale
