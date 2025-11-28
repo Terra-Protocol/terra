@@ -263,7 +263,7 @@ This mechanism guarantees:
 The Consensus Delegation Council is **not a permanent institution**.
 
 CDC delegation is automatically disabled when the community collectively earns
-a sufficient amount of Terra (>20%)
+a sufficient amount of Terra (<20%)
 
 ---
 
