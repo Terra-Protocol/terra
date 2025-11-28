@@ -64,7 +64,9 @@ Terra Protocol consists of 5 core components:
 3. **Governance Integration Layer**  
 4. **Revenue Router**  
 5. **Developer SDK**
-
+5. **Rights-Based Tokenization (TERRA)**
+6. **Revenue Claim Mechanism (CREDIT)**
+7. **Local Economy Token (WORK)**
 Together, they form a flexible, scalable, and governance-aligned framework for real-world operations.
 
 ---
