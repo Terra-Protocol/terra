@@ -516,7 +516,7 @@ This separation keeps the protocol:
 - more flexible for future economic design  
 - safer from a regulatory perspective (no direct property tokenization)  
 
-## TERRA Distribution (Rights Allocation, Not Immediate Distribution)
+## credit (Distribution)
 
 | Category                           | Allocation | Meaning                                                                 |
 |-----------------------------------|------------|-------------------------------------------------------------------------|
