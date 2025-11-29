@@ -57,7 +57,7 @@ Terra closes the gap between **real-world economies** and **on-chain governance*
 
 # 3. System Overview
 
-Terra Protocol consists of 5 core components:
+Terra Protocol consists of 7 core components:
 
 1. **Rights-Based Tokenization Engine**  
 2. **XCM Payment Router**  
