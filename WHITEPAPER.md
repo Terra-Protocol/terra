@@ -231,6 +231,7 @@ The CDC solves this by:
 The Founder may delegate a **temporary voting fraction** of Terra  
 (e.g., 5–10%) to the CDC.
 
+CDC members do not own Terra; they receive governance power only through delegation.
 Important characteristics:
 
 - Delegation does **not** transfer ownership  
@@ -240,6 +241,7 @@ Important characteristics:
 
 This ensures community participation without introducing instability.
 
+CDC members do not hold Terra themselves; all their strategic governance power originates exclusively from delegated Terra voting rights.
 ---
 
 ### 7.6.3 Unanimous Consensus Requirement
@@ -648,7 +650,7 @@ This enables:
 The focus is not on ownership but on **capability**: communities should be able to act, build, regenerate, and govern — together.
 
 ### 3. Founder Allocation: Stability, Responsibility, and Long-Term Commitment  
-A portion of TERRA is allocated to me as the founder and to the initial team.  
+A portion of TERRA is allocated to me as the founder.  
 This allocation has two roles:
 
 **(a) Personal Financial Stability**  
