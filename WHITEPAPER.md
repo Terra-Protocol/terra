@@ -185,13 +185,16 @@ To avoid lost supply and ensure continuity:
 - A Governance Council may verify extraordinary inheritance cases.
 
 ---
-
 ### 7.4 Terra Distribution Model
 
-- 20% — Founder Allocation  
-- 20% — Worker Terra Pool (vesting over time via GOVT reputation)  
-- 55% — Treasury (ecosystem and public goods)  
-- 5% — Partnerships & Ecosystem Expansion  
+- 20% — Founder Allocation (sole initial holder of all active Terra)
+- 55% — Treasury (ecosystem & public goods)
+- 20% — Worker Terra Pool (only earned over time; no initial team allocation)
+- 5% — Partnerships & Ecosystem Expansion
+
+**Note:**  
+No initial team member receives Terra.  
+The initial team participates in governance exclusively through **delegated Terra voting power** from the Founder.
 
 The Worker Terra Pool is non-inflationary and released slowly to contributors.
 ## 7.6 Consensus Delegation Council (CDC)
