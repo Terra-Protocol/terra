@@ -106,7 +106,7 @@ More details: `/docs/legal-framework.md`.
 
 ## 8. Repository Layout
 
-```text
+
 /contracts      – smart contract / runtime modules  
 /docs           – whitepaper, architecture, governance, legal docs  
 /founders       – public founding member letters (IMAP)  
@@ -117,7 +117,7 @@ More details: `/docs/legal-framework.md`.
 
 ## 3. `/docs/whitepaper.md`
 
-```markdown
+markdown
 # ⚛️ Athena Protocol — Whitepaper  
 ### Rights-Based Governance & Coordination Layer for Real-World Communities on Polkadot  
 
