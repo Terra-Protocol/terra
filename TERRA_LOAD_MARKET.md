@@ -238,10 +238,3 @@ if __name__=="__main__":
     run()
 ---
 
-Wenn du willst, mache ich als nächsten Schritt:
-
-- eine **Investor-Version (kürzer, härter, zahlenfokussiert)**  
-- oder ein **Governance-Kapitel**  
-- oder eine **formale Smart-Contract-Struktur (Substrate/Polkadot)**  
-
-Sag einfach, was als Nächstes „eins“ werden soll.
